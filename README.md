@@ -1,0 +1,1 @@
+- Im just tryna learn javascript and css the pain
