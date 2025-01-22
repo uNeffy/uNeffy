@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/297552049862606863.png" />
-</p>
-
-<p align="center">
   𝚃𝚞𝚛𝚗𝚒𝚗𝚐 𝚝𝚑𝚎 𝚙𝚊𝚒𝚗 𝚒𝚗𝚝𝚘 𝚕𝚘𝚟𝚎 𝚊𝚗𝚍 𝚝𝚑𝚎 𝚕𝚘𝚟𝚎 𝚒𝚗𝚝𝚘 𝚕𝚒𝚗𝚎𝚜
   </p>
   
